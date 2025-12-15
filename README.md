@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&animation=fadeIn" width="100%" />
 </div>
 
-<h1>👨‍💻 Hi There! I'm Faried Mahfudz</h1>
+<h1>👨‍💻 Hi There! I'm Faried</h1>
 
 <p>
   <b>Electrical Engineering Student</b><br/>
@@ -11,9 +11,6 @@
 </p>
 
 <p>
-  <a href="https://linktr.ee/mahfudfaried" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
   <a href="https://linkedin.com/in/mahfudfaried22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -111,15 +108,6 @@ Vibing while coding? Check out my playlist:
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfudfaried&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfudfaried&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
 
 ---
 
