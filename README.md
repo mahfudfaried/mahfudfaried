@@ -98,7 +98,6 @@ Vibing while coding? Check out my playlist:
   <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=white" />
   <img src="https://img.shields.io/badge/Kiro-FF5722?style=for-the-badge&logo=kiro&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-4CAF50?style=for-the-badge&logo=antigravity&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
