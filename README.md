@@ -5,7 +5,7 @@
 <h1>👨‍💻 Hi There! I'm Faried</h1>
 
 <p>
-  <b>Electrical Engineering Student</b><br/>
+  <b>A Lifelong Learner</b><br/>
   ⚡️ Tech • 🚲 Pedals • 🚇 Transit<br/>
   <i>Quiet progress, steady steps.</i>
 </p>
@@ -38,9 +38,10 @@
 
 ## 🚀 About Me
 
-Hi! I am an **Electrical Engineering** student. I have a deep interest in how software interacts with hardware.
+Hi! I'm Faried. I have a deep interest in how software interacts with hardware.
 
 - 💡 I am interested in IoT, Embedded Systems, and Automation.
+- 🐧 I enjoy exploring Linux distributions and Open Source software.
 - 🛠️ My hobby is tinkering with computers, repairing electronic devices, and trying out new tech projects.
 - 🎓 Currently focusing on bridging the gap between hardware and software.
 
@@ -75,38 +76,78 @@ Vibing while coding? Check out my playlist:
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 **Hardware & Embedded**
 <p>
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Espressif-32%2F8266-red?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-%23000000.svg?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
+  </a>
+  <a href="https://www.espressif.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Espressif-32%2F8266-red?style=for-the-badge&logo=espressif&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank">
+    <img src="https://img.shields.io/badge/IoT-%23000000.svg?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  </a>
 </p>
 
 **Tools & Editors**
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kiro-FF5722?style=for-the-badge&logo=kiro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-4CAF50?style=for-the-badge&logo=antigravity&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Octave-0790BA?style=for-the-badge&logo=gnu-octave&logoColor=white" />
-  <img src="https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://vscodium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
+  </a>
+  <a href="https://www.cursor.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  </a>
+  <a href="https://codeium.com/windsurf" target="_blank">
+    <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=white" />
+  </a>
+  <a href="https://kiro.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Kiro-FF5722?style=for-the-badge&logo=kiro&logoColor=white" />
+  </a>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-4CAF50?style=for-the-badge&logo=antigravity&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank">
+    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+  <a href="https://www.spyder-ide.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
+  </a>
+  <a href="https://octave.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GNU%20Octave-0790BA?style=for-the-badge&logo=gnu-octave&logoColor=white" />
+  </a>
+  <a href="https://easyeda.com/" target="_blank">
+    <img src="https://img.shields.io/badge/EasyEDA-4053D6?style=for-the-badge&logo=easyeda&logoColor=white" />
+  </a>
 </p>
 
 **Operating Systems**
 <p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
+  </a>
 </p>
 
 ---
